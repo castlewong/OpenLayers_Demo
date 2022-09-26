@@ -38,10 +38,15 @@
 
 打开浏览器输入网址： `http://localhost:8080/geoserver`.
 
-> 看到geoserver的logo，说明安装成功。![../_images/success.png](https://docs.geoserver.org/stable/en/user/_images/success.png)
-> 
+> 看到geoserver的logo, 说明安装成功.
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6kdzn5uebj20z40lmtbl.jpg)
 
 若要关闭GeoServer, 可以通过关闭当前命令行窗口，也可以通过执行bin文件夹下的 `shutdown.sh`.
+
+若要登录GeoServer, 用户名/密码default组合是 admin/geoserver.
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6kdwmxzjej20z40lmtbl.jpg)
 
 > Ref 
 >
