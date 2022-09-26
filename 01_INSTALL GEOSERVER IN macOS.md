@@ -42,3 +42,9 @@
 > 
 
 若要关闭GeoServer, 可以通过关闭当前命令行窗口，也可以通过执行bin文件夹下的 `shutdown.sh`.
+
+> Ref 
+>
+> - https://docs.geoserver.org/stable/en/user/installation/osx_binary.html
+> - https://www.cnblogs.com/googlegis/p/9853790.html
+
