@@ -1,5 +1,3 @@
-## Installation
-
 1.  确认已经安装了JRE环境. GeoServer 需要 **Java 8** 环境, 详见 [instructions for installing Oracle Java on OS X](http://java.com/en/download/faq/java_mac.xml).
     
 2.  到官网站下载页 [Download](http://geoserver.org/download).
@@ -44,7 +42,7 @@
 
 若要关闭GeoServer, 可以通过关闭当前命令行窗口，也可以通过执行bin文件夹下的 `shutdown.sh`.
 
-若要登录GeoServer, 用户名/密码default组合是 admin/geoserver.
+若要登录GeoServer, 用户名/密码默认的组合是 `admin/geoserver`.
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6kdwmxzjej20z40lmtbl.jpg)
 

@@ -10,9 +10,11 @@
 
 ![](https://ask.qcloudimg.com/http-save/7256485/pjboox1ydo.jpeg?imageView2/2/w/1620)
 
-此后一路Next接口完成安装
+此后一路Next接口完成安装 
 
-其中包括
+注意`stack builder`最好勾选 因为后面用这个装PostGIS比较方便
+
+设置的项目包括
 
 >  安装目录、扩展安装、[数据库](https://cloud.tencent.com/solution/database?from=10680)目录、用户密码、端口设置等
 
